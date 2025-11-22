@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Viniciusprogama/Viniciusprogama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Vinicius Magalhães</h1> <p align="center"> Desenvolvedor Front-end em formação · Estudante SENAI </p>
 
-Here are some ideas to get you started:
+## Sobre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudante de Desenvolvimento Front-end pelo SENAI
+
+- Atualmente cursando JavaScript pelo SENAI
+
+- Interesse em desenvolvimento web, interfaces modernas e boas práticas de código
+
+- Em evolução contínua para atuar como desenvolvedor full stack futuramente
+
+- Buscando experiência prática em projetos reais e portfólio
+
+---
+
+ "A evolução começa com o primeiro código que você decide escrever."
