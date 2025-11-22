@@ -1,6 +1,8 @@
 
 <h1 align="center">Vinicius Magalhães</h1> <p align="center"> Desenvolvedor Front-end em formação · Estudante SENAI </p>
 
+![](./profile-3d-contrib/profile-night-green.svg)
+
 ## Sobre
 
 - Estudante de Desenvolvimento Front-end pelo SENAI
